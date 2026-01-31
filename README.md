@@ -5,6 +5,7 @@ The objective of this project is to analyze customer behavior and identify facto
 
 ## Dataset
 Telecom customer churn dataset.
+Dataset source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Tools Used
 - Python
